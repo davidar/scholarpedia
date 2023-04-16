@@ -1,0 +1,7 @@
+Goal(s) for Sunday, 16th April 2023:
+-View page source for an image
+-Find actual location of the actual image
+-Figure out how to modify the wiki
+
+Later (not today):
+-Replace the broken image with the actual image
