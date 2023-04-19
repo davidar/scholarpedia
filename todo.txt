@@ -7,3 +7,10 @@ Goal(s) for Sunday, 16th April 2023:
 
 Later (not today):
 -Replace the broken image with the actual image
+
+
+Goal(s) for Wednesday, 19th April 2023:
+-Update one more image
+
+--On the horizon: Automate image updating
+  (But that's later.)
