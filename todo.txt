@@ -17,3 +17,9 @@ Goal(s) for Wednesday, 19th April 2023:
 
 
 ---Goals accomplished. Come back later.---
+
+
+Goal(s) for Thursday, 20th April 2023:
+-Come up with outline and pseudocode for auto-extraction ("web scraping")
+of images from scholarpedia website, storage in starrtennis/scholarpedia github,
+and update of davidar/scholarpedia wiki.
