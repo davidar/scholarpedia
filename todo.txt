@@ -29,6 +29,17 @@ and update of davidar/scholarpedia wiki.
 
 Add equivalent of (https://github.com/starrtennis/scholarpedia/blob/master/hh30.gif) to after equivalent of [[hh30.gif]. Use a script.
 
-Download image from original wiki website.
+Download image from original wiki website. Use a script.
 
-Upload image to starrtennis github repository.
+Upload image to starrtennis github repository. Use a script.
+
+Do once, on one image (or lack of image spot), scriptorially.
+
+Then, amplify to n images.
+
+Find limits of web scraping.
+Then, amplify to those limits.
+
+Project complete!
+
+Go.
