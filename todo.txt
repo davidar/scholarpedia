@@ -25,3 +25,10 @@ of images from scholarpedia website, storage in starrtennis/scholarpedia github,
 and update of davidar/scholarpedia wiki.
 
 ---Goals not met. Come back later.---
+
+
+Add equivalent of (https://github.com/starrtennis/scholarpedia/blob/master/hh30.gif) to after equivalent of [[hh30.gif]. Use a script.
+
+Download image from original wiki website.
+
+Upload image to starrtennis github repository.
