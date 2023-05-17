@@ -1,0 +1,45 @@
+Goal(s) for Sunday, 16th April 2023:
+-View page source for an image
+-Find actual location of the actual image
+-Figure out how to modify the wiki
+
+---Goals accomplished. Come back later.---
+
+Later (not today):
+-Replace the broken image with the actual image
+
+
+Goal(s) for Wednesday, 19th April 2023:
+-Update one more image
+
+--On the horizon: Automate image updating
+  (But that's later.)
+
+
+---Goals accomplished. Come back later.---
+
+
+Goal(s) for Thursday, 20th April 2023:
+-Come up with outline and pseudocode for auto-extraction ("web scraping")
+of images from scholarpedia website, storage in starrtennis/scholarpedia github,
+and update of davidar/scholarpedia wiki.
+
+---Goals not met. Come back later.---
+
+
+Add equivalent of (https://github.com/starrtennis/scholarpedia/blob/master/hh30.gif) to after equivalent of [[hh30.gif]. Use a script.
+
+Download image from original wiki website. Use a script.
+
+Upload image to starrtennis github repository. Use a script.
+
+Do once, on one image (or lack of image spot), scriptorially.
+
+Then, amplify to n images.
+
+Find limits of web scraping.
+Then, amplify to those limits.
+
+Project complete!
+
+Go.
